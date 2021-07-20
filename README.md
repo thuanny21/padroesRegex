@@ -1,0 +1,2 @@
+# padroesRegex
+alguns padrões regex
